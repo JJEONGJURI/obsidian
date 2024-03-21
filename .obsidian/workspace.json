@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6af5ef4c4f5b45b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8081a33284920d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2597016d8d4af9b1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attached file/Pasted image 20240315174308.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc4cb937a47920e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75f551ac77df1d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93acd1cce9171bea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37be866b42a05cfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ef636975aa041e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07b359b507ec5352",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b6840e899f6ff01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ec265c10efc9b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attached file/Pasted image 20240315174308.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caa61ca9e3c2cb72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Attached file/Pasted image 20240315174308.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdaa4899b0895d6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "026da6fd73c76e74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Attached file/Pasted image 20240315174308.png"
+              }
+            }
+          },
+          {
+            "id": "ce815f70f9531a22",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "915383ca946b81c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "2597016d8d4af9b1",
+  "lastOpenFiles": [
+    "1.Daliy/2024-03-21.md",
+    "1.Daliy/2024-03-18.md",
+    "InformationProcessingEngineer/무제 파일.md",
+    "Obsidian/올라가니.md",
+    "InformationProcessingEngineer/암호화 특징.md",
+    "Excalidraw/Drawing 2024-03-21 14.47.09.excalidraw.md",
+    "InformationProcessingEngineer/들어가는감.....test.md",
+    "Excalidraw/Drawing 2024-03-21 14.48.58.excalidraw.md",
+    "4.Yearly/2024.md",
+    "InformationProcessingEngineer/README.md",
+    "Information-Processing-Engineer",
+    "Information Processing Engineer/Information-Processing-Engineer",
+    "2024-03-21.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "Attached file/Pasted Image 20240321135647_451.jpg",
+    "Attached file/Pasted image 20240318093515.png",
+    "Attached file/Pasted image 20240315174308.png",
+    "Excalidraw/Drawing 2024-03-21 14.26.02.excalidraw.md",
+    "Obsidian/마크다운 사용법.md",
+    "--------",
+    "------/README.md",
+    "------",
+    "Obsidian/옵시디언 사용법.md",
+    "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
+    "Excalidraw",
+    "InformationProcessingEngineer/응집도 유형.md",
+    "InformationProcessingEngineer/프로세스 스케줄링.md",
+    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
+    "InformationProcessingEngineer/디자인 패턴.md",
+    "InformationProcessingEngineer/보안 공격.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
+    "InformationProcessingEngineer/오픈 스택.md",
+    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
+    "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
+    "3.Monthly/2024-03.md",
+    "InformationProcessingEngineer",
+    "Obsidian",
+    "Attached file",
+    "4.Yearly",
+    "정주리.jpg",
+    "사진보관",
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas"
+  ]
+}
