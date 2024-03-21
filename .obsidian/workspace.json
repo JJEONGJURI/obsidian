@@ -11,9 +11,11 @@
             "id": "2597016d8d4af9b1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attached file/Pasted image 20240315174308.png"
+                "file": "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attached file/Pasted image 20240315174308.png",
+                "file": "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attached file/Pasted image 20240315174308.png",
+                "file": "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attached file/Pasted image 20240315174308.png"
+                "file": "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md"
               }
             }
           },
@@ -164,9 +166,11 @@
   },
   "active": "2597016d8d4af9b1",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/무제 파일.md",
+    "InformationProcessingEngineer/보안 공격.md",
+    "Attached file/Pasted image 20240315174308.png",
     "1.Daliy/2024-03-21.md",
     "1.Daliy/2024-03-18.md",
-    "InformationProcessingEngineer/무제 파일.md",
     "Obsidian/올라가니.md",
     "InformationProcessingEngineer/암호화 특징.md",
     "Excalidraw/Drawing 2024-03-21 14.47.09.excalidraw.md",
@@ -181,7 +185,6 @@
     "무제 파일.canvas",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240318093515.png",
-    "Attached file/Pasted image 20240315174308.png",
     "Excalidraw/Drawing 2024-03-21 14.26.02.excalidraw.md",
     "Obsidian/마크다운 사용법.md",
     "--------",
@@ -194,12 +197,10 @@
     "InformationProcessingEngineer/프로세스 스케줄링.md",
     "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/디자인 패턴.md",
-    "InformationProcessingEngineer/보안 공격.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
     "InformationProcessingEngineer/오픈 스택.md",
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
-    "3.Monthly/2024-03.md",
     "InformationProcessingEngineer",
     "Obsidian",
     "Attached file",
