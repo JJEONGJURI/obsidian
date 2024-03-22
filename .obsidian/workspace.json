@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md"
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "2597016d8d4af9b1",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+    "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
+    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/오픈 스택.md",
     "InformationProcessingEngineer/프로세스 스케줄링.md",
     "InformationProcessingEngineer/디자인 패턴.md",
