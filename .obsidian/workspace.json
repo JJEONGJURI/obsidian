@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
+                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
+                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
+                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md"
+                "file": "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md"
               }
             }
           },
@@ -164,14 +164,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "93acd1cce9171bea",
+  "active": "2597016d8d4af9b1",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
+    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/오픈 스택.md",
     "InformationProcessingEngineer/프로세스 스케줄링.md",
     "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/들어가는감.....test.md",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
-    "InformationProcessingEngineer/무제 파일.md",
     "2024-03-21.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
@@ -198,7 +199,6 @@
     "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "Excalidraw",
     "InformationProcessingEngineer/응집도 유형.md",
-    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "InformationProcessingEngineer",
