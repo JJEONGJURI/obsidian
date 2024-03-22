@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
+                "file": "1.Daliy/2024-03-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
+                "file": "1.Daliy/2024-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
+                "file": "1.Daliy/2024-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md"
+                "file": "1.Daliy/2024-03-22.md"
               }
             }
           },
@@ -166,8 +166,13 @@
   },
   "active": "2597016d8d4af9b1",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+    "Attached file/Pasted image 20240322132747.png",
+    "1.Daliy/2024-03-21.md",
+    "1.Daliy/2024-03-22.md",
+    "Obsidian/무제 파일.md",
+    "Obsidian/올라가니.md",
     "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
+    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/오픈 스택.md",
     "InformationProcessingEngineer/프로세스 스케줄링.md",
@@ -179,9 +184,7 @@
     "무제 파일 1.canvas",
     "InformationProcessingEngineer/보안 공격.md",
     "Attached file/Pasted image 20240315174308.png",
-    "1.Daliy/2024-03-21.md",
     "1.Daliy/2024-03-18.md",
-    "Obsidian/올라가니.md",
     "InformationProcessingEngineer/암호화 특징.md",
     "Excalidraw/Drawing 2024-03-21 14.47.09.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 14.48.58.excalidraw.md",
@@ -199,9 +202,6 @@
     "Obsidian/옵시디언 사용법.md",
     "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "Excalidraw",
-    "InformationProcessingEngineer/응집도 유형.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
-    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "InformationProcessingEngineer",
     "Obsidian",
     "Attached file",
