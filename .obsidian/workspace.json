@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/데이터베이스 특징.md",
-                "mode": "source",
+                "file": "InformationProcessingEngineer/디자인 패턴.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/데이터베이스 특징.md",
+                "file": "InformationProcessingEngineer/디자인 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/데이터베이스 특징.md",
+                "file": "InformationProcessingEngineer/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/데이터베이스 특징.md"
+                "file": "InformationProcessingEngineer/디자인 패턴.md"
               }
             }
           },
@@ -168,13 +168,16 @@
   "lastOpenFiles": [
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
+    "InformationProcessingEngineer/빅데이터.md",
+    "InformationProcessingEngineer/디자인 패턴.md",
+    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
+    "InformationProcessingEngineer/결합도.md",
+    "InformationProcessingEngineer/응집도 유형.md",
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "1.Daliy/2024-03-22.md",
-    "InformationProcessingEngineer/빅데이터.md",
     "InformationProcessingEngineer/릴리즈 노트.md",
     "무제 파일.md",
     "InformationProcessingEngineer/배치 프로그램 (이온정).md",
-    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "Attached file/Pasted image 20240322132747.png",
     "1.Daliy/2024-03-21.md",
     "Obsidian/무제 파일.md",
@@ -183,7 +186,6 @@
     "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/오픈 스택.md",
     "InformationProcessingEngineer/프로세스 스케줄링.md",
-    "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/들어가는감.....test.md",
     "2024-03-21.md",
     "무제 파일.canvas",
@@ -194,8 +196,6 @@
     "InformationProcessingEngineer/암호화 특징.md",
     "Excalidraw/Drawing 2024-03-21 14.47.09.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 14.48.58.excalidraw.md",
-    "4.Yearly/2024.md",
-    "InformationProcessingEngineer/README.md",
     "Information-Processing-Engineer",
     "Information Processing Engineer/Information-Processing-Engineer",
     "Attached file/Pasted Image 20240321135647_451.jpg",
