@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/하둡(Hadoop).md",
+                "file": "InformationProcessingEngineer/화이트박스 테스트.md",
                 "mode": "preview",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/하둡(Hadoop).md",
+                "file": "InformationProcessingEngineer/화이트박스 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/하둡(Hadoop).md",
+                "file": "InformationProcessingEngineer/화이트박스 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/하둡(Hadoop).md"
+                "file": "InformationProcessingEngineer/화이트박스 테스트.md"
               }
             }
           },
@@ -207,9 +207,10 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/하둡(Hadoop).md",
+    "InformationProcessingEngineer/화이트박스 테스트.md",
     "InformationProcessingEngineer/Pasted image 20240327131510.png",
     "InformationProcessingEngineer/패킷 교환 방식.md",
-    "InformationProcessingEngineer/하둡(Hadoop).md",
     "1.Daliy/2024-03-21.md",
     "1.Daliy/2024-03-22.md",
     "1.Daliy/2024-03-27.md",
