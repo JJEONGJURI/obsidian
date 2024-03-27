@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
-                "mode": "source",
+                "file": "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
+                "file": "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
+                "file": "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md"
+                "file": "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "5ce7d7cfa50b1cb2",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/결합도.md",
+    "InformationProcessingEngineer/UI 품질 요구사항.md",
+    "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md",
     "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
+    "InformationProcessingEngineer/결합도.md",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "1.Daliy/2024-03-22.md",
     "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
@@ -206,8 +208,6 @@
     "무제 파일 1.canvas",
     "Attached file/Pasted image 20240315174308.png",
     "1.Daliy/2024-03-18.md",
-    "InformationProcessingEngineer/암호화 특징.md",
-    "Excalidraw/Drawing 2024-03-21 14.47.09.excalidraw.md",
     "Information-Processing-Engineer",
     "Information Processing Engineer/Information-Processing-Engineer",
     "Attached file/Pasted Image 20240321135647_451.jpg",
