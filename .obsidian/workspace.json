@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md",
-                "mode": "source",
+                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md",
+                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md",
+                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md"
+                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md"
               }
             }
           },
@@ -197,6 +197,9 @@
   },
   "active": "6f506937e7b870d0",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/결합도.md",
+    "InformationProcessingEngineer/프로토콜 기본 요소.md",
+    "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
     "Excalidraw/Drawing 2024-03-27 10.29.52.excalidraw.md",
@@ -206,13 +209,11 @@
     "Excalidraw/Drawing 2024-03-21 14.26.02.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "InformationProcessingEngineer/암호화 특징.md",
-    "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "Attached file/Pasted image 20240322132747.png",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted image 20240315174308.png",
     "1.Daliy/2024-03-27.md",
-    "InformationProcessingEngineer/결합도.md",
     "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md",
     "InformationProcessingEngineer/UI 품질 요구사항.md",
     "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
@@ -227,7 +228,6 @@
     "InformationProcessingEngineer/릴리즈 노트.md",
     "무제 파일.md",
     "InformationProcessingEngineer/배치 프로그램 (이온정).md",
-    "1.Daliy/2024-03-21.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
