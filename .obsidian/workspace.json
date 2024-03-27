@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/보안 공격.md",
+                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c02140fac7923ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InformationProcessingEngineer/결합도.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/보안 공격.md",
+                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/보안 공격.md",
+                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/보안 공격.md"
+                "file": "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md"
               }
             }
           },
@@ -164,18 +176,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "93acd1cce9171bea",
+  "active": "5ce7d7cfa50b1cb2",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/결합도.md",
+    "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
+    "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
+    "1.Daliy/2024-03-22.md",
+    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/보안 공격.md",
     "InformationProcessingEngineer/디자인 패턴.md",
-    "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
     "InformationProcessingEngineer/빅데이터.md",
-    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
-    "InformationProcessingEngineer/결합도.md",
     "InformationProcessingEngineer/응집도 유형.md",
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
-    "1.Daliy/2024-03-22.md",
     "InformationProcessingEngineer/릴리즈 노트.md",
     "무제 파일.md",
     "InformationProcessingEngineer/배치 프로그램 (이온정).md",
@@ -195,7 +208,6 @@
     "1.Daliy/2024-03-18.md",
     "InformationProcessingEngineer/암호화 특징.md",
     "Excalidraw/Drawing 2024-03-21 14.47.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-21 14.48.58.excalidraw.md",
     "Information-Processing-Engineer",
     "Information Processing Engineer/Information-Processing-Engineer",
     "Attached file/Pasted Image 20240321135647_451.jpg",
