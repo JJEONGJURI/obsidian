@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/빅데이터.md",
-                "mode": "source",
+                "file": "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/빅데이터.md",
+                "file": "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/빅데이터.md",
+                "file": "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/빅데이터.md"
+                "file": "InformationProcessingEngineer/맥케이브 회전 복잡도.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/메시 네트워크.md",
     "InformationProcessingEngineer/빅데이터.md",
+    "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
+    "InformationProcessingEngineer/메시 네트워크.md",
     "InformationProcessingEngineer/배치 프로그램 (이온정).md",
     "InformationProcessingEngineer/관계 대수.md",
     "InformationProcessingEngineer/테스트 레벨 (단통시인).md",
@@ -239,7 +240,6 @@
     "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
     "InformationProcessingEngineer/결합도.md",
-    "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
     "Error",
     "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "무제 파일.canvas",
