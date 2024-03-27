@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md",
+                "file": "InformationProcessingEngineer/해싱함수 유형.md",
                 "mode": "preview",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md",
+                "file": "InformationProcessingEngineer/해싱함수 유형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md",
+                "file": "InformationProcessingEngineer/해싱함수 유형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/프로토콜 기본 요소.md"
+                "file": "InformationProcessingEngineer/해싱함수 유형.md"
               }
             }
           },
@@ -197,8 +197,16 @@
   },
   "active": "6f506937e7b870d0",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/결합도.md",
+    "1.Daliy/2024-03-21.md",
+    "InformationProcessingEngineer/해싱함수 유형.md",
+    "1.Daliy/2024-03-18.md",
+    "1.Daliy/2024-03-22.md",
+    "1.Daliy/2024-03-27.md",
+    "4.Yearly/2024.md",
+    "Obsidian/옵시디언 사용법.md",
+    "Obsidian/마크다운 사용법.md",
     "InformationProcessingEngineer/프로토콜 기본 요소.md",
+    "InformationProcessingEngineer/결합도.md",
     "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
@@ -213,21 +221,13 @@
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted image 20240315174308.png",
-    "1.Daliy/2024-03-27.md",
     "InformationProcessingEngineer/UI 시나리오 문서 작성 요건.md",
     "InformationProcessingEngineer/UI 품질 요구사항.md",
     "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
-    "1.Daliy/2024-03-22.md",
     "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/보안 공격.md",
     "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
-    "InformationProcessingEngineer/빅데이터.md",
-    "InformationProcessingEngineer/응집도 유형.md",
-    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
-    "InformationProcessingEngineer/릴리즈 노트.md",
-    "무제 파일.md",
-    "InformationProcessingEngineer/배치 프로그램 (이온정).md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
