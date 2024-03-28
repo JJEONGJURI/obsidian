@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
+                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
+                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
+                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md"
+                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240328151605.png",
     "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
+    "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
+    "Attached file/Pasted image 20240328151605.png",
     "Attached file/Pasted image 20240327113856.png",
     "Attached file/Pasted image 20240327113948.png",
     "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
