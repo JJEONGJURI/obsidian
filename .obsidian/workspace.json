@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/깃허브 업로드한 파일 한글 깨짐.md",
+                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/깃허브 업로드한 파일 한글 깨짐.md",
+                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/깃허브 업로드한 파일 한글 깨짐.md",
+                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/깃허브 업로드한 파일 한글 깨짐.md"
+                "file": "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md"
               }
             }
           },
@@ -207,19 +207,23 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
-    "Error/Pasted image 20240328151605.png",
+    "Attached file/Pasted image 20240328151605.png",
+    "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
+    "Attached file/Pasted image 20240327113856.png",
+    "Attached file/Pasted image 20240327113948.png",
+    "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
+    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
+    "Error/깃허브 업로드한 파일 한글 깨짐.md",
     "InformationProcessingEngineer/COCOMO (COnstructive COst MOdel).md",
     "InformationProcessingEngineer/데이터 링크 계층.md",
     "InformationProcessingEngineer/패스워드 크래킹.md",
     "InformationProcessingEngineer/TCP 핸드셰이킹.md",
     "InformationProcessingEngineer/스니핑 스푸핑 스누핑.md",
     "InformationProcessingEngineer/디자인 패턴.md",
-    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 패턴.md",
     "InformationProcessingEngineer/OWASP CLASP.md",
-    "Error/깃허브 업로드한 파일 한글 깨짐.md",
     "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
     "InformationProcessingEngineer/빅데이터.md",
     "InformationProcessingEngineer/메시 네트워크.md",
@@ -233,13 +237,9 @@
     "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240322132747.png",
-    "Attached file/Pasted image 20240327113856.png",
-    "Attached file/Pasted image 20240327113948.png",
     "InformationProcessingEngineer/화이트박스 테스트.md",
     "InformationProcessingEngineer/Pasted image 20240327131510.png",
     "InformationProcessingEngineer/하둡(Hadoop).md",
-    "InformationProcessingEngineer/패킷 교환 방식.md",
-    "1.Daliy/2024-03-21.md",
     "Error",
     "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "무제 파일.canvas",
