@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
-                "mode": "preview",
+                "file": "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
+                "file": "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
+                "file": "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md"
+                "file": "InformationProcessingEngineer/인터페이스 구현 검증 도구.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "5c02140fac7923ab",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/인터페이스 감시 도구.md",
+    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
+    "InformationProcessingEngineer/경험 기반 테스트 유형.md",
     "InformationProcessingEngineer/결합도.md",
     "무제 파일.canvas",
     "Attached file/Pasted image 20240322132747.png",
@@ -173,7 +176,6 @@
     "InformationProcessingEngineer/일정관리 모델.md",
     "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/비용산정 모형.md",
-    "InformationProcessingEngineer/경험 기반 테스트 유형.md",
     "InformationProcessingEngineer/접근 통제 유형.md",
     "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/접근 통제 용어.md",
@@ -201,7 +203,6 @@
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
     "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
-    "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
     "Error",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
