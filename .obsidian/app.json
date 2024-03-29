@@ -2,6 +2,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
   "newFileFolderPath": "사진보관",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Attached file",
   "promptDelete": false
 }
