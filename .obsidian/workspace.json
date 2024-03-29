@@ -39,11 +39,9 @@
             "id": "401438eed1dbb2a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 용어.md",
-                "mode": "preview",
-                "source": false
+                "file": "Attached file/Pasted image 20240315174308.png"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 용어.md",
+                "file": "Attached file/Pasted image 20240315174308.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 용어.md",
+                "file": "Attached file/Pasted image 20240315174308.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 용어.md"
+                "file": "Attached file/Pasted image 20240315174308.png"
               }
             }
           },
@@ -207,8 +205,24 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+    "InformationProcessingEngineer/암호화 특징.md",
+    "InformationProcessingEngineer/Pasted image 20240329134349.png",
+    "InformationProcessingEngineer/Pasted image 20240329134333.png",
+    "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-27 11.55.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
+    "InformationProcessingEngineer/테스트 레벨 (단통시인).md",
+    "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
+    "InformationProcessingEngineer/메시 네트워크.md",
+    "InformationProcessingEngineer/릴리즈 노트.md",
+    "InformationProcessingEngineer/디자인 패턴.md",
+    "InformationProcessingEngineer/배치 프로그램 (이온정).md",
+    "InformationProcessingEngineer/빅데이터.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
+    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "InformationProcessingEngineer/접근 통제 용어.md",
+    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/일정관리 모델.md",
     "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
     "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
@@ -216,33 +230,17 @@
     "Attached file/Pasted image 20240327113856.png",
     "Attached file/Pasted image 20240327113948.png",
     "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
-    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
     "Error/깃허브 업로드한 파일 한글 깨짐.md",
     "InformationProcessingEngineer/COCOMO (COnstructive COst MOdel).md",
     "InformationProcessingEngineer/데이터 링크 계층.md",
     "InformationProcessingEngineer/패스워드 크래킹.md",
     "InformationProcessingEngineer/TCP 핸드셰이킹.md",
-    "InformationProcessingEngineer/스니핑 스푸핑 스누핑.md",
-    "InformationProcessingEngineer/디자인 패턴.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 패턴.md",
-    "InformationProcessingEngineer/OWASP CLASP.md",
-    "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
-    "InformationProcessingEngineer/빅데이터.md",
-    "InformationProcessingEngineer/메시 네트워크.md",
-    "InformationProcessingEngineer/배치 프로그램 (이온정).md",
-    "InformationProcessingEngineer/관계 대수.md",
-    "InformationProcessingEngineer/테스트 레벨 (단통시인).md",
-    "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
     "Attached file/Pasted image 20240315174308.png",
     "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240322132747.png",
     "InformationProcessingEngineer/Pasted image 20240327131510.png",
     "Error",
-    "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
@@ -254,7 +252,6 @@
     "Obsidian",
     "Attached file",
     "4.Yearly",
-    "정주리.jpg",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas"
   ]
