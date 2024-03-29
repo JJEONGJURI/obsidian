@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
-                "mode": "preview",
+                "file": "InformationProcessingEngineer/일정관리 모델.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
+                "file": "InformationProcessingEngineer/일정관리 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
+                "file": "InformationProcessingEngineer/일정관리 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/블록체인 합의 알고리즘.md"
+                "file": "InformationProcessingEngineer/일정관리 모델.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
     "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
+    "InformationProcessingEngineer/일정관리 모델.md",
+    "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
     "Attached file/Pasted image 20240328151605.png",
     "Attached file/Pasted image 20240327113856.png",
     "Attached file/Pasted image 20240327113948.png",
@@ -240,7 +241,6 @@
     "Attached file/Pasted image 20240322132747.png",
     "InformationProcessingEngineer/화이트박스 테스트.md",
     "InformationProcessingEngineer/Pasted image 20240327131510.png",
-    "InformationProcessingEngineer/하둡(Hadoop).md",
     "Error",
     "InformationProcessingEngineer/Pasted image 20240327103051.png",
     "무제 파일.canvas",
