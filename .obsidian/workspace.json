@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/REST.md",
+                "file": "InformationProcessingEngineer/XP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/REST.md",
+                "file": "InformationProcessingEngineer/XP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/REST.md",
+                "file": "InformationProcessingEngineer/XP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/REST.md"
+                "file": "InformationProcessingEngineer/XP.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "5c02140fac7923ab",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
     "InformationProcessingEngineer/REST.md",
+    "InformationProcessingEngineer/XP.md",
+    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
     "InformationProcessingEngineer/인터페이스 감시 도구.md",
     "InformationProcessingEngineer/경험 기반 테스트 유형.md",
     "InformationProcessingEngineer/결합도.md",
@@ -202,7 +203,6 @@
     "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
-    "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
     "Error",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
