@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 유형.md",
-                "mode": "preview",
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 유형.md",
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 유형.md",
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/접근 통제 유형.md"
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "401438eed1dbb2a7",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/접근 통제 유형.md",
+    "InformationProcessingEngineer/경험 기반 테스트 유형.md",
+    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/접근 통제 용어.md",
     "InformationProcessingEngineer/암호화 특징.md",
     "Attached file/Pasted image 20240329134607.png",
@@ -242,7 +243,6 @@
     "InformationProcessingEngineer/COCOMO (COnstructive COst MOdel).md",
     "InformationProcessingEngineer/데이터 링크 계층.md",
     "InformationProcessingEngineer/패스워드 크래킹.md",
-    "InformationProcessingEngineer/TCP 핸드셰이킹.md",
     "Error",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
