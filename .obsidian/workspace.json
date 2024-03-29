@@ -8,59 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ce7d7cfa50b1cb2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attached file/Pasted image 20240322132747.png"
-              }
-            }
-          },
-          {
-            "id": "5b9cb1686d47a52c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f506937e7b870d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "401438eed1dbb2a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InformationProcessingEngineer/비용산정 모형.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c02140fac7923ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md",
-                "mode": "source",
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/비용산정 모형.md",
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/비용산정 모형.md",
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/비용산정 모형.md"
+                "file": "InformationProcessingEngineer/경험 기반 테스트 유형.md"
               }
             }
           },
@@ -205,10 +164,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "401438eed1dbb2a7",
+  "active": "5c02140fac7923ab",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/경험 기반 테스트 유형.md",
+    "InformationProcessingEngineer/결합도.md",
+    "무제 파일.canvas",
+    "Attached file/Pasted image 20240322132747.png",
+    "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
+    "InformationProcessingEngineer/일정관리 모델.md",
+    "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/비용산정 모형.md",
+    "InformationProcessingEngineer/경험 기반 테스트 유형.md",
     "InformationProcessingEngineer/접근 통제 유형.md",
     "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "InformationProcessingEngineer/접근 통제 용어.md",
@@ -217,13 +182,11 @@
     "Attached file/Pasted image 20240315174308.png",
     "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted Image 20240321135647_451.jpg",
-    "Attached file/Pasted image 20240322132747.png",
     "Attached file/Pasted image 20240327113856.png",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
     "InformationProcessingEngineer/Pasted image 20240329134349.png",
     "InformationProcessingEngineer/Pasted image 20240329134333.png",
-    "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
     "Excalidraw/Drawing 2024-03-27 11.55.55.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "InformationProcessingEngineer/테스트 레벨 (단통시인).md",
@@ -236,15 +199,10 @@
     "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
     "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
     "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
-    "InformationProcessingEngineer/일정관리 모델.md",
     "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
     "InformationProcessingEngineer/요구사항 수집 주요 수집기법.md",
     "InformationProcessingEngineer/요구사항 개발 프로세스 (도분명확).md",
-    "Error/깃허브 업로드한 파일 한글 깨짐.md",
-    "InformationProcessingEngineer/COCOMO (COnstructive COst MOdel).md",
-    "InformationProcessingEngineer/데이터 링크 계층.md",
     "Error",
-    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
     "Information Processing Engineer/Information-Processing-Engineer",
