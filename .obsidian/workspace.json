@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-01.md",
+                "file": "1.Daliy/2024-04-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-04-01.md",
+                "file": "1.Daliy/2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-04-01.md",
+                "file": "1.Daliy/2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-04-01.md"
+                "file": "1.Daliy/2024-04-02.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "5c02140fac7923ab",
   "lastOpenFiles": [
-    "1.Daliy/2024-03-27.md",
     "1.Daliy/2024-04-01.md",
+    "1.Daliy/2024-04-02.md",
+    "1.Daliy/2024-03-27.md",
     "2.Weekly/2024-W12.md",
     "InformationProcessingEngineer/XP.md",
     "InformationProcessingEngineer/REST.md",
@@ -202,7 +203,6 @@
     "InformationProcessingEngineer/릴리즈 노트.md",
     "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/배치 프로그램 (이온정).md",
-    "InformationProcessingEngineer/빅데이터.md",
     "Error",
     "무제 파일 1.canvas",
     "Information-Processing-Engineer",
