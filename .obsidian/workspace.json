@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-02.md",
+                "file": "1.Daliy/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-03.md",
+                "file": "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +176,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d7e3d844762ea17d",
+  "active": "b34891bc44d009ff",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-03 10.55.14.excalidraw.md",
-    "1.Daliy/2024-04-03.md",
     "1.Daliy/2024-04-02.md",
+    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
+    "1.Daliy/2024-04-03.md",
+    "Excalidraw/Drawing 2024-04-03 10.55.14.excalidraw.md",
     "2.Weekly/2024-W12.md",
     "3.Monthly/2024-03.md",
     "InformationProcessingEngineer/OWASP CLASP.md",
@@ -190,7 +190,6 @@
     "1.Daliy/2024-04-01.md",
     "1.Daliy/2024-03-27.md",
     "InformationProcessingEngineer/REST.md",
-    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
     "InformationProcessingEngineer/인터페이스 감시 도구.md",
     "InformationProcessingEngineer/경험 기반 테스트 유형.md",
     "InformationProcessingEngineer/결합도.md",
