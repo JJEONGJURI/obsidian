@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-04.md",
+                "file": "1.Daliy/2024-04-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-04-04.md",
+                "file": "1.Daliy/2024-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-04-04.md",
+                "file": "1.Daliy/2024-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-04-04.md"
+                "file": "1.Daliy/2024-04-05.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "b34891bc44d009ff",
   "lastOpenFiles": [
+    "1.Daliy/2024-04-04.md",
+    "1.Daliy/2024-04-05.md",
     "1.Daliy/2024-04-03.md",
     "1.Daliy/2024-04-02.md",
     "1.Daliy/2024-04-01.md",
-    "1.Daliy/2024-04-04.md",
     "1.Daliy/2024-03-22.md",
     "1.Daliy/2024-03-27.md",
     "2.Weekly/2024-W12.md",
@@ -211,7 +212,6 @@
     "InformationProcessingEngineer/비용산정 모형.md",
     "InformationProcessingEngineer/접근 통제 유형.md",
     "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
-    "InformationProcessingEngineer/접근 통제 용어.md",
     "Attached file/Pasted image 20240315174308.png",
     "InformationProcessingEngineer/Pasted image 20240329134349.png",
     "InformationProcessingEngineer/Pasted image 20240329134333.png",
