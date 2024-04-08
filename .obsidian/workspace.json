@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-05.md",
+                "file": "1.Daliy/2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-04-05.md",
+                "file": "1.Daliy/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-04-05.md",
+                "file": "1.Daliy/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-04-05.md"
+                "file": "1.Daliy/2024-04-08.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "b34891bc44d009ff",
   "lastOpenFiles": [
+    "1.Daliy/2024-04-05.md",
+    "1.Daliy/2024-04-08.md",
     "1.Daliy/2024-03-22.md",
     "1.Daliy/2024-04-01.md",
-    "1.Daliy/2024-04-05.md",
     "1.Daliy/2024-04-04.md",
     "1.Daliy/2024-04-03.md",
     "InformationProcessingEngineer/결합도.md",
@@ -211,7 +212,6 @@
     "InformationProcessingEngineer/기업의 비지니스 연속성 관리.md",
     "InformationProcessingEngineer/비용산정 모형.md",
     "InformationProcessingEngineer/접근 통제 유형.md",
-    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
     "Attached file/Pasted image 20240315174308.png",
     "InformationProcessingEngineer/Pasted image 20240329134349.png",
     "InformationProcessingEngineer/Pasted image 20240329134333.png",
