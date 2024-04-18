@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-15.md",
+                "file": "1.Daliy/2024-04-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-04-15.md",
+                "file": "1.Daliy/2024-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-04-15.md",
+                "file": "1.Daliy/2024-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-04-15.md"
+                "file": "1.Daliy/2024-04-18.md"
               }
             }
           },
@@ -178,14 +178,15 @@
   },
   "active": "b34891bc44d009ff",
   "lastOpenFiles": [
+    "1.Daliy/2024-04-16.md",
+    "1.Daliy/2024-04-18.md",
+    "1.Daliy/2024-04-15.md",
+    "1.Daliy/2024-04-08.md",
+    "1.Daliy/2024-04-11.md",
     "InformationProcessingEngineer/데이터 링크 계층.md",
     "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
-    "1.Daliy/2024-04-15.md",
-    "1.Daliy/2024-04-16.md",
-    "1.Daliy/2024-04-08.md",
-    "1.Daliy/2024-04-11.md",
     "InformationProcessingEngineer/결합도.md",
     "1.Daliy/2024-04-05.md",
     "1.Daliy/2024-03-22.md",
@@ -210,7 +211,6 @@
     "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
     "InformationProcessingEngineer/OWASP CLASP.md",
     "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
-    "InformationProcessingEngineer/XP.md",
     "Attached file/Pasted image 20240322132747.png",
     "Attached file/Pasted image 20240315174308.png",
     "InformationProcessingEngineer/Pasted image 20240329134349.png",
