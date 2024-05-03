@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-04-30.md",
+                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-04-30.md",
+                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-04-30.md",
+                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-04-30.md"
+                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "b34891bc44d009ff",
   "lastOpenFiles": [
-    "1.Daliy/2024-04-18.md",
     "1.Daliy/2024-04-30.md",
+    "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
+    "1.Daliy/2024-04-18.md",
     "1.Daliy/2024-04-16.md",
     "1.Daliy/2024-04-15.md",
     "1.Daliy/2024-04-08.md",
@@ -198,7 +199,6 @@
     "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "무제 파일.canvas",
     "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
-    "InformationProcessingEngineer/OWASP CLASP.md",
     "Attached file/Pasted image 20240322132747.png",
     "Attached file/Pasted image 20240315174308.png",
     "InformationProcessingEngineer/Pasted image 20240329134349.png",
