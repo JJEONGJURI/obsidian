@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
+                "file": "C#/Convert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
+                "file": "C#/Convert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
+                "file": "C#/Convert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md"
+                "file": "C#/Convert.md"
               }
             }
           },
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -166,8 +167,19 @@
   },
   "active": "b34891bc44d009ff",
   "lastOpenFiles": [
-    "1.Daliy/2024-04-30.md",
+    "4.Yearly/2024.md",
+    "C#/Convert.md",
+    "C#",
+    "3.Monthly/2024-03.md",
+    "2.Weekly/2024-W12.md",
+    "Attached file/Pasted image 20240327113856.png",
+    "Attached file/Pasted image 20240322132747.png",
+    "Attached file/Pasted image 20240318093515.png",
+    "Attached file/Pasted image 20240315174308.png",
+    "Error/깃허브 업로드한 파일 한글 깨짐.md",
+    "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
+    "1.Daliy/2024-04-30.md",
     "1.Daliy/2024-04-18.md",
     "1.Daliy/2024-04-16.md",
     "1.Daliy/2024-04-15.md",
@@ -185,22 +197,12 @@
     "1.Daliy/2024-04-03.md",
     "1.Daliy/2024-04-02.md",
     "1.Daliy/2024-03-27.md",
-    "2.Weekly/2024-W12.md",
-    "3.Monthly/2024-03.md",
-    "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
     "Attached file/Pasted image 20240329134607.png",
-    "Attached file/Pasted image 20240327113856.png",
     "Excalidraw/Drawing 2024-04-03 10.55.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-27 11.55.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-27 10.05.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "무제 파일.canvas",
-    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
-    "Attached file/Pasted image 20240322132747.png",
-    "Attached file/Pasted image 20240315174308.png",
     "InformationProcessingEngineer/Pasted image 20240329134349.png",
     "InformationProcessingEngineer/Pasted image 20240329134333.png",
     "Error",
@@ -213,7 +215,6 @@
     "InformationProcessingEngineer",
     "Obsidian",
     "Attached file",
-    "4.Yearly",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas"
   ]
