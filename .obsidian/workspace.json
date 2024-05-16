@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Array.Reverse().md",
+                "file": "C#/Console.WriteLine().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Array.Reverse().md",
+                "file": "C#/Console.WriteLine().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Array.Reverse().md",
+                "file": "C#/Console.WriteLine().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Array.Reverse().md"
+                "file": "C#/Console.WriteLine().md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "b34891bc44d009ff",
   "lastOpenFiles": [
-    "C#/Read()와 ReadLine().md",
+    "Attached file/Pasted image 20240516114641.png",
     "C#/Array.Reverse().md",
+    "C#/Console.WriteLine().md",
+    "C#/Read()와 ReadLine().md",
     "C#/Write()와 WriteLine().md",
     "C#/Convert.md",
     "4.Yearly/2024.md",
@@ -196,8 +198,6 @@
     "1.Daliy/2024-04-05.md",
     "1.Daliy/2024-03-22.md",
     "1.Daliy/2024-04-01.md",
-    "1.Daliy/2024-04-04.md",
-    "1.Daliy/2024-04-03.md",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
