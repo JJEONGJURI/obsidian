@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-05-24.md",
+                "file": "1.Daliy/2024-05-24 sk.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-05-24.md",
+                "file": "1.Daliy/2024-05-24 sk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-05-24.md",
+                "file": "1.Daliy/2024-05-24 sk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-05-24.md"
+                "file": "1.Daliy/2024-05-24 sk.md"
               }
             }
           },
@@ -181,7 +181,7 @@
   "active": "c148919e6004e0f3",
   "lastOpenFiles": [
     "C#/Console.WriteLine().md",
-    "1.Daliy/2024-05-24.md",
+    "1.Daliy/2024-05-24 sk.md",
     "Attached file/Pasted image 20240516114641.png",
     "C#/Array.Reverse().md",
     "C#/Read()와 ReadLine().md",
