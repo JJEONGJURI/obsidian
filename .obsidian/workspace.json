@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8749e56aa640f780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tymeleaf/form 작성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/rem의 정의와 사용법.md",
+                "file": "Tymeleaf/form 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/rem의 정의와 사용법.md",
+                "file": "Tymeleaf/form 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/rem의 정의와 사용법.md"
+                "file": "Tymeleaf/form 작성.md"
               }
             }
           },
@@ -191,10 +203,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d83bef07a887b02e",
+  "active": "8749e56aa640f780",
   "lastOpenFiles": [
-    "1.Daliy/2024-05-24 sk.md",
+    "Tymeleaf/form 작성.md",
+    "Tymeleaf",
     "CSS/rem의 정의와 사용법.md",
+    "1.Daliy/2024-05-24 sk.md",
     "CSS",
     "C#/Console.WriteLine().md",
     "Attached file/Pasted image 20240516114641.png",
@@ -224,8 +238,6 @@
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
     "InformationProcessingEngineer/결합도.md",
-    "1.Daliy/2024-04-05.md",
-    "1.Daliy/2024-03-22.md",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
@@ -240,7 +252,6 @@
     "------",
     "Excalidraw",
     "InformationProcessingEngineer",
-    "Obsidian",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas"
   ]
