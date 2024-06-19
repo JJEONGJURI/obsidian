@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tymeleaf/form 작성.md",
+                "file": "Thymeleaf/form 작성.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/viewport.md",
+                "file": "Thymeleaf/form 작성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b44501d0c475ea61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thymeleaf/Thymeleaf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/viewport.md",
+                "file": "Thymeleaf/Thymeleaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/viewport.md",
+                "file": "Thymeleaf/Thymeleaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/viewport.md"
+                "file": "Thymeleaf/Thymeleaf.md"
               }
             }
           },
@@ -215,12 +227,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6b5b103baa462f5",
+  "active": "b44501d0c475ea61",
   "lastOpenFiles": [
-    "Tymeleaf/form 작성.md",
+    "Thymeleaf/form 작성.md",
+    "Thymeleaf/Thymeleaf.md",
     "HTML/viewport.md",
     "HTML",
-    "Tymeleaf",
+    "Thymeleaf",
     "CSS/rem의 정의와 사용법.md",
     "1.Daliy/2024-05-24 sk.md",
     "CSS",
@@ -251,7 +264,6 @@
     "InformationProcessingEngineer/디자인 패턴.md",
     "InformationProcessingEngineer/데이터베이스를 고장나게 하는 형태.md",
     "InformationProcessingEngineer/데이터베이스 특징.md",
-    "InformationProcessingEngineer/결합도.md",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
