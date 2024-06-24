@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Daliy/2024-06-24.md",
+                "file": "CSS/마우스 효과.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Daliy/2024-06-24.md",
+                "file": "CSS/마우스 효과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Daliy/2024-06-24.md",
+                "file": "CSS/마우스 효과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Daliy/2024-06-24.md"
+                "file": "CSS/마우스 효과.md"
               }
             }
           },
@@ -239,10 +239,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "626e49bf3fcf6470",
+  "active": "93acd1cce9171bea",
   "lastOpenFiles": [
-    "무제 파일.md",
     "1.Daliy/2024-06-24.md",
+    "CSS/마우스 효과.md",
+    "무제 파일.md",
     "Thymeleaf/form 작성.md",
     "Thymeleaf/Thymeleaf.md",
     "HTML/viewport.md",
@@ -275,7 +276,6 @@
     "1.Daliy/2024-04-08.md",
     "1.Daliy/2024-04-11.md",
     "InformationProcessingEngineer/데이터 링크 계층.md",
-    "InformationProcessingEngineer/디자인 패턴.md",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
