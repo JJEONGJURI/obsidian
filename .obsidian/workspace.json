@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/마우스 효과.md",
+                "file": "InformationProcessingEngineer/결합도.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/마우스 효과.md",
+                "file": "InformationProcessingEngineer/결합도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/마우스 효과.md",
+                "file": "InformationProcessingEngineer/결합도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/마우스 효과.md"
+                "file": "InformationProcessingEngineer/결합도.md"
               }
             }
           },
@@ -239,8 +239,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "93acd1cce9171bea",
+  "active": "626e49bf3fcf6470",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
+    "InformationProcessingEngineer/화이트박스 테스트.md",
+    "InformationProcessingEngineer/스니핑 스푸핑 스누핑.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 패턴.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
+    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
+    "CSS/rem의 정의와 사용법.md",
+    "C#/Write()와 WriteLine().md",
+    "C#/Convert.md",
+    "C#/Read()와 ReadLine().md",
+    "C#/Console.WriteLine().md",
     "1.Daliy/2024-06-24.md",
     "CSS/마우스 효과.md",
     "무제 파일.md",
@@ -249,15 +261,10 @@
     "HTML/viewport.md",
     "HTML",
     "Thymeleaf",
-    "CSS/rem의 정의와 사용법.md",
     "1.Daliy/2024-05-24 sk.md",
     "CSS",
-    "C#/Console.WriteLine().md",
     "Attached file/Pasted image 20240516114641.png",
     "C#/Array.Reverse().md",
-    "C#/Read()와 ReadLine().md",
-    "C#/Write()와 WriteLine().md",
-    "C#/Convert.md",
     "4.Yearly/2024.md",
     "C#",
     "3.Monthly/2024-03.md",
@@ -269,13 +276,6 @@
     "Error/깃허브 업로드한 파일 한글 깨짐.md",
     "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
     "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
-    "1.Daliy/2024-04-30.md",
-    "1.Daliy/2024-04-18.md",
-    "1.Daliy/2024-04-16.md",
-    "1.Daliy/2024-04-15.md",
-    "1.Daliy/2024-04-08.md",
-    "1.Daliy/2024-04-11.md",
-    "InformationProcessingEngineer/데이터 링크 계층.md",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
