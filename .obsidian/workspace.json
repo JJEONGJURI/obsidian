@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thymeleaf/Thymeleaf.md",
+                "file": "InformationProcessingEngineer/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab5b483960481ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InformationProcessingEngineer/릴리즈 노트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md",
+                "file": "InformationProcessingEngineer/디자인 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md",
+                "file": "InformationProcessingEngineer/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/결합도.md"
+                "file": "InformationProcessingEngineer/디자인 패턴.md"
               }
             }
           },
@@ -239,43 +251,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "626e49bf3fcf6470",
+  "active": "b44501d0c475ea61",
   "lastOpenFiles": [
-    "InformationProcessingEngineer/블록체인 합의 알고리즘.md",
-    "InformationProcessingEngineer/화이트박스 테스트.md",
-    "InformationProcessingEngineer/스니핑 스푸핑 스누핑.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 패턴.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
-    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
-    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
-    "CSS/rem의 정의와 사용법.md",
-    "C#/Write()와 WriteLine().md",
+    "C#/Array.Reverse().md",
+    "C#/Console.WriteLine().md",
     "C#/Convert.md",
     "C#/Read()와 ReadLine().md",
-    "C#/Console.WriteLine().md",
-    "1.Daliy/2024-06-24.md",
+    "C#/Write()와 WriteLine().md",
     "CSS/마우스 효과.md",
-    "무제 파일.md",
-    "Thymeleaf/form 작성.md",
     "Thymeleaf/Thymeleaf.md",
-    "HTML/viewport.md",
+    "InformationProcessingEngineer/결합도.md",
+    "InformationProcessingEngineer/릴리즈 노트.md",
+    "InformationProcessingEngineer/맥케이브 회전 복잡도.md",
+    "InformationProcessingEngineer/메시 네트워크.md",
+    "InformationProcessingEngineer/비용산정 모형.md",
+    "InformationProcessingEngineer/소프트웨어 공학의 원칙과 관련된 법칙.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 비용 평가 모델.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 4+1뷰.md",
+    "InformationProcessingEngineer/스니핑 스푸핑 스누핑.md",
+    "InformationProcessingEngineer/소프트웨어 아키텍처 패턴.md",
+    "InformationProcessingEngineer/스키마.md",
+    "InformationProcessingEngineer/오픈 스택.md",
+    "InformationProcessingEngineer/접근 통제 보호 모델 (벨기비무).md",
+    "InformationProcessingEngineer/접근 통제 용어.md",
+    "InformationProcessingEngineer/접근 통제 유형.md",
+    "InformationProcessingEngineer/인터페이스 감시 도구.md",
+    "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
+    "InformationProcessingEngineer/형상 관리.md",
+    "InformationProcessingEngineer/화이트박스 테스트.md",
     "HTML",
     "Thymeleaf",
-    "1.Daliy/2024-05-24 sk.md",
     "CSS",
     "Attached file/Pasted image 20240516114641.png",
-    "C#/Array.Reverse().md",
-    "4.Yearly/2024.md",
     "C#",
-    "3.Monthly/2024-03.md",
-    "2.Weekly/2024-W12.md",
     "Attached file/Pasted image 20240327113856.png",
     "Attached file/Pasted image 20240322132747.png",
     "Attached file/Pasted image 20240318093515.png",
     "Attached file/Pasted image 20240315174308.png",
-    "Error/깃허브 업로드한 파일 한글 깨짐.md",
-    "Excalidraw/Drawing 2024-03-21 13.55.29.excalidraw.md",
-    "1.Daliy/2024-05-03 - SQL Developer 스크립트실행.md",
     "Attached file/Pasted Image 20240321135647_451.jpg",
     "Attached file/Pasted image 20240327113948.png",
     "Attached file/Pasted image 20240328151605.png",
