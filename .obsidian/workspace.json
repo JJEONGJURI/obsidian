@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationProcessingEngineer/디자인 패턴.md",
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationProcessingEngineer/디자인 패턴.md",
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationProcessingEngineer/디자인 패턴.md",
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationProcessingEngineer/디자인 패턴.md"
+                "file": "InformationProcessingEngineer/CMMI 단계적 표현 모델.md"
               }
             }
           },
@@ -253,6 +253,7 @@
   },
   "active": "b44501d0c475ea61",
   "lastOpenFiles": [
+    "InformationProcessingEngineer/디자인 패턴.md",
     "C#/Array.Reverse().md",
     "C#/Console.WriteLine().md",
     "C#/Convert.md",
@@ -278,7 +279,6 @@
     "InformationProcessingEngineer/인터페이스 감시 도구.md",
     "InformationProcessingEngineer/인터페이스 구현 검증 도구.md",
     "InformationProcessingEngineer/형상 관리.md",
-    "InformationProcessingEngineer/화이트박스 테스트.md",
     "HTML",
     "Thymeleaf",
     "CSS",
