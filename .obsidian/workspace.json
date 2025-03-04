@@ -99,8 +99,20 @@
               "state": {
                 "currentVersion": "1.7.7"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-book-up",
               "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "17602f6cdbc34245",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -132,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -282,18 +295,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templater-obsidian:Templater": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "3cbaae2fcbe7b61d",
+  "active": "17602f6cdbc34245",
   "lastOpenFiles": [
     "InformationProcessingEngineer/디자인 패턴.md",
     "C#/Array.Reverse().md",
