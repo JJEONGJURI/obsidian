@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "559d259915557000",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "626e49bf3fcf6470",
             "type": "leaf",
             "state": {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "17602f6cdbc34245",
+  "active": "559d259915557000",
   "lastOpenFiles": [
     "InformationProcessingEngineer/디자인 패턴.md",
     "C#/Array.Reverse().md",
